@@ -13,6 +13,7 @@ Architecture:
 
 -----
 **🛠️ FEATURES**
+
 -Three Subnet Divisions:
 Each floor has a dedicated VLAN for better management.
 
@@ -32,6 +33,7 @@ Ready to integrate future expansions or devices.
 
 ------
 **🌐 NETWORK HIGHLIGHTS**
+
 IP Addressing: 
 
 **First floor: (Network 192.168.1.0/26)** 
