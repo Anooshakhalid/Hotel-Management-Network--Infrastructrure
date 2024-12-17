@@ -2,8 +2,11 @@
  Project for Computer Communication Course (CS-327) #fifth Semester
 
 A structured network designed for a three-floor hotel to ensure efficient connectivity, scalability, and performance. The project incorporates OSPF routing for dynamic path selection,VLAN, Subnetting and NAT for internet access.
+
+
 Architecture:
  ![Screenshot 2024-12-17 194048](https://github.com/user-attachments/assets/1d2d1cf1-31d2-4414-ba38-7c90a3a63416)
+
 
 
 -----
@@ -11,14 +14,19 @@ Architecture:
 -Three Subnet Divisions:
 Each floor has a dedicated VLAN for better management.
 
+
 -OSPF Routing Protocol:
 Dynamic routing with cost-based metrics for optimal performance.
+
 
 -NAT Implementation:
 Seamless internet access for private IPs.
 
+
 -Scalability:
 Ready to integrate future expansions or devices.
+
+
 
 ------
 🌐 Network Highlights
@@ -44,10 +52,12 @@ IP Addressing:
 -Public Ips: 
 200.100.50.0/30 
 
+
 -Web Server: 
 8.8.8.0/24
 
-Hardware:
+
+-Hardware:
 Cisco 2911 Routers
 Layer 2/3 Switches
 End Devices (PCs, Servers, Printers).
