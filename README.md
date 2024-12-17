@@ -4,13 +4,15 @@
 A structured network designed for a three-floor hotel to ensure efficient connectivity, scalability, and performance. The project incorporates OSPF routing for dynamic path selection,VLAN, Subnetting and NAT for internet access.
 
 
+
+
 Architecture:
  ![Screenshot 2024-12-17 194048](https://github.com/user-attachments/assets/1d2d1cf1-31d2-4414-ba38-7c90a3a63416)
 
 
 
 -----
-🛠️ Features
+**🛠️ FEATURES**
 -Three Subnet Divisions:
 Each floor has a dedicated VLAN for better management.
 
@@ -29,7 +31,7 @@ Ready to integrate future expansions or devices.
 
 
 ------
-🌐 Network Highlights
+**🌐 NETWORK HIGHLIGHTS**
 IP Addressing: 
 
 **First floor: (Network 192.168.1.0/26)** 
